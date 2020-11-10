@@ -5,9 +5,9 @@ A visually pleasing listening environment for Spotify. Search for albums, add to
 
 ![Demo Gif](https://github.com/allene-norton/playbase/blob/master/playbasedemogif.gif?raw=true)
 
-### Motivation
+### Inspiration
 
-We wanted to build an app that created an 'analog' feel for listening to your favorite albums on Spotify. Flipping through records is a very satisfying, and we aimed to recreate the experience with this application
+We wanted to create an alternative music playing app that mimicked the "analog," record playing feel for listening to your favorite albums on Spotify. Flipping through records is a very satisfying, and listening to albums all the way through without skipping tracks was something we aimed to recreate the experience with this application.
 
 ### Built With
 
@@ -35,7 +35,7 @@ In a new terminal (keep the backend server running!)
 Navigate to /playbase
 Run npm start and type 'y' to start the frontend server in a new port
 
-## API, How To Use, and Credits
+
 ### API Reference
 
 Playbase uses the Spotify API and Spotify OAuth for authentication.
