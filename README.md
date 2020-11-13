@@ -5,6 +5,9 @@ A visually pleasing listening environment for Spotify. Search for albums, add to
 
 ![Demo Gif](https://github.com/allene-norton/playbase/blob/master/playbasedemogif.gif?raw=true)
 
+[Demo](https://www.youtube.com/watch?v=mYzVeRW99r4&feature=youtu.be)
+
+
 ### Inspiration
 
 We wanted to create an alternative music playing app that mimicked the "analog," record playing feel for listening to your favorite albums on Spotify. Flipping through records is a very satisfying, and listening to albums all the way through without skipping tracks was something we aimed to recreate the experience with this application.
